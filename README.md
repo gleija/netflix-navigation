@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="net.gif" alt="rotatin" title="rotating" width="600px" />
+  <img src="net.gif" alt="rotatin" title="rotating" width="300px" />
 </div>
 
 ## Netflix mobile Navigation
